@@ -10,3 +10,12 @@ python app.py
 ```
 
 ![UI](ui.gif)
+
+
+### Code
+
+`server.py`: create the app object
+
+`app.py`: build layout items, callback functions, and run the app
+
+`auth.py`: create the authentication decorator, user authentication function, and dict of users/passwords
